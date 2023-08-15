@@ -1,0 +1,15 @@
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\bin\Debug\net6.0\Pathlock_RefrigeratorApp.exe
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\bin\Debug\net6.0\Pathlock_RefrigeratorApp.deps.json
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\bin\Debug\net6.0\Pathlock_RefrigeratorApp.runtimeconfig.json
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\bin\Debug\net6.0\Pathlock_RefrigeratorApp.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\bin\Debug\net6.0\Pathlock_RefrigeratorApp.pdb
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.csproj.AssemblyReference.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.AssemblyInfoInputs.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.AssemblyInfo.cs
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\refint\Pathlock_RefrigeratorApp.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.pdb
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\Pathlock_RefrigeratorApp.genruntimeconfig.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\Pathlock_RefrigeratorApp\obj\Debug\net6.0\ref\Pathlock_RefrigeratorApp.dll

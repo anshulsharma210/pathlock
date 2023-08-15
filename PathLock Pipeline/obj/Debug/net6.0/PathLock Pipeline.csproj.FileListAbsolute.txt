@@ -1,0 +1,15 @@
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\bin\Debug\net6.0\PathLock Pipeline.exe
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\bin\Debug\net6.0\PathLock Pipeline.deps.json
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\bin\Debug\net6.0\PathLock Pipeline.runtimeconfig.json
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\bin\Debug\net6.0\PathLock Pipeline.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\bin\Debug\net6.0\PathLock Pipeline.pdb
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.csproj.AssemblyReference.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.AssemblyInfoInputs.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.AssemblyInfo.cs
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\refint\PathLock Pipeline.dll
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.pdb
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\PathLock Pipeline.genruntimeconfig.cache
+E:\PROJECTS\Pathlock Assignment\PathLock Pipeline\PathLock Pipeline\obj\Debug\net6.0\ref\PathLock Pipeline.dll

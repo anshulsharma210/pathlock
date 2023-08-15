@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathLock Pipeline", "PathLock Pipeline\PathLock Pipeline.csproj", "{C5C0D14E-629E-4F0B-905A-57E50CB304E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathlock_RefrigeratorApp", "Pathlock_RefrigeratorApp\Pathlock_RefrigeratorApp.csproj", "{F425AF6C-8FBD-42D5-95D3-19B082241C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C0D14E-629E-4F0B-905A-57E50CB304E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C0D14E-629E-4F0B-905A-57E50CB304E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C0D14E-629E-4F0B-905A-57E50CB304E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C0D14E-629E-4F0B-905A-57E50CB304E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F425AF6C-8FBD-42D5-95D3-19B082241C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F425AF6C-8FBD-42D5-95D3-19B082241C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F425AF6C-8FBD-42D5-95D3-19B082241C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F425AF6C-8FBD-42D5-95D3-19B082241C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5746E96E-4609-44E7-B12D-C96DBC769ACE}
+	EndGlobalSection
+EndGlobal
